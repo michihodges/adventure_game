@@ -1,2 +1,2 @@
 # adventure_game
-A text-based adventure game written in Python.
+A text-based adventure game.
